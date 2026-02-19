@@ -86,5 +86,13 @@ export const AVAILABLE_MODELS = [
       prompt: 0.4,
       completion: 1.6,
     },
+  },
+  {
+    model: "google/gemini-3-flash-preview",
+    label: "gemini-3-flash-preview",
+    cost: {
+      prompt: 0.5,
+      completion: 3,
+    },
   }
 ];
