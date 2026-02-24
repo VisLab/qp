@@ -6,7 +6,7 @@ const ALLOWED_ORIGINS = [
   /^https:\/\/.*\.neurosift\.app$/,
   'https://magland.github.io',
   'https://dandi.github.io',
-  'medit.dandiarchive.org',
+  'https://medit.dandiarchive.org',
   "https://dandiset-metadata-assistant.surge.sh"
 ];
 
